@@ -314,7 +314,6 @@ h4 {
 .operations__content {
   display: none;
 
-  /* JUST PRESENTATIONAL */
   font-size: 1.7rem;
   padding: 2.5rem 7rem 6.5rem 7rem;
 }
@@ -376,7 +375,6 @@ h4 {
   margin: 0 auto;
   position: relative;
 
-  /* IN THE END */
   overflow: hidden;
 }
 
@@ -454,7 +452,6 @@ h4 {
 }
 
 .dots__dot--active {
-  /* background-color: #fff; */
   background-color: #888;
   opacity: 1;
 }
